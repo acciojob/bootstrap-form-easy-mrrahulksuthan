@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+#fname{
+	border:1px solid grey;
+	border-radius:6px;
+}
