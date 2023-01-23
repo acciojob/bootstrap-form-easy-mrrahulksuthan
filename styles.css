@@ -4,6 +4,16 @@
 	border:1px solid grey;
 	border-radius:6px;
 }
-form{
-	display:inline;
+#lname{
+	border:1px solid grey;
+	border-radius:6px;
+}
+#email{
+	border:1px solid grey;
+	border-radius:6px;
+}
+.form-inline{
+	display:flex;
+	flex-flow: row wrap;
+	align-items: center;
 }
